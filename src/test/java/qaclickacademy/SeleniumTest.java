@@ -9,7 +9,11 @@ public class SeleniumTest {
 	{
 		System.out.println("browserAutomate");
 	}
-	
+	@Test
+	public void browserAutomate1()
+	{
+		System.out.println("browserAutomate");
+	}
 	@Test
 	public void elementUi()
 	{
